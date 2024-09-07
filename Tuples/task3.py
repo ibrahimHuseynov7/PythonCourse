@@ -7,6 +7,6 @@ ordered_numbers = tuple(sorted(tuple_numbers))
 
 ordered_words= tuple(sorted(tuple_words))
 
-# Nəticələri ekrana çıxaraq
+#Nəticələri print edək
 print("Ordered numbers:", ordered_numbers)
-print("Orderedsözlər:", )
+
